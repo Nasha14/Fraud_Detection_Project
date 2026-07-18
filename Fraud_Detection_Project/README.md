@@ -34,7 +34,8 @@ The simulation engine utilizes a What-If parameter boundary slider (`0.00` to `1
 ### 1. Executive Summary
 * **Intent:** The high-level hook for C-suite stakeholders.
 * **Metrics:** High-impact KPI blocks showing immediate losses, total transaction spikes, and a macro timeline of the breach event to establish the baseline narrative.
-![Dashboard Preview](./Executive%20Summary.png)
+
+![Dashboard Preview](./Fraud_Detection_Project/Executive%20Summary.png)
 
 ### 2. Temporal Analysis
 * **Intent:** Deep-dive behavioral tracking across time dimensions.
