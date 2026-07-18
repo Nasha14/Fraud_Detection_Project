@@ -1,4 +1,4 @@
-# FinTech Fraud Detection & Strategic Simulation Dashboard
+# Fraud Detection & Strategic Simulation Dashboard
 
 ## 📁 Data Source
 This project utilizes the [Credit Card Fraud Detection Dataset] https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud hosted on Kaggle. The dataset was selected for its high imbalance and temporal features, providing an ideal sandbox for simulating defensive financial thresholds.
