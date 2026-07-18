@@ -1,5 +1,8 @@
 # FinTech Fraud Detection & Strategic Simulation Dashboard
 
+## 📁 Data Source
+This project utilizes the [Credit Card Fraud Detection Dataset] https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud hosted on Kaggle. The dataset was selected for its high imbalance and temporal features, providing an ideal sandbox for simulating defensive financial thresholds.
+
 ## 📊 Project Overview
 This repository contains an end-to-end enterprise business intelligence solution designed to analyze financial fraud lifecycles, track operational breach timelines, and simulate defensive security thresholds. Built with a premium dark-themed UI/UX, this 4-page dashboard bridges the gap between deep forensic data engineering and executive decision-making.
 
@@ -31,6 +34,8 @@ The simulation engine utilizes a What-If parameter boundary slider (`0.00` to `1
 ### 1. Executive Summary
 * **Intent:** The high-level hook for C-suite stakeholders.
 * **Metrics:** High-impact KPI blocks showing immediate losses, total transaction spikes, and a macro timeline of the breach event to establish the baseline narrative.
+
+![Dashboard Preview](./Dashboard/Executive%20Summary.png)
 
 ### 2. Temporal Analysis
 * **Intent:** Deep-dive behavioral tracking across time dimensions.
