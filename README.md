@@ -35,21 +35,28 @@ The simulation engine utilizes a What-If parameter boundary slider (`0.00` to `1
 * **Intent:** The high-level hook for C-suite stakeholders.
 * **Metrics:** High-impact KPI blocks showing immediate losses, total transaction spikes, and a macro timeline of the breach event to establish the baseline narrative.
 
-![Dashboard Preview](./Dashboard/Executive%20Summary.png)
+![Executive Summary](https://github.com/Nasha14/Fraud_Detection_Project/raw/main/Fraud_Detection_Project/Dashboard/Executive%20Summary.png)
+
 
 ### 2. Temporal Analysis
 * **Intent:** Deep-dive behavioral tracking across time dimensions.
 * **Metrics:** Advanced scatter plots and dense matrix cross-examinations mapping fraud events against `Operational Day` and `True Hour` to identify system vulnerabilities and attacker operating schedules.
 
+  ![Temporal Analysis](https://github.com/Nasha14/Fraud_Detection_Project/raw/main/Fraud_Detection_Project/Dashboard/Temporal%20Analysis.png)
+
 ### 3. Financial Metrics
 * **Intent:** Quantification of fiscal risk.
 * **Metrics:** Granular breakdown of asset damage, loss velocity tracking, and case volume distributions to isolate which transaction categories took the heaviest financial hit.
+
+* ![Financial Metrics](https://github.com/Nasha14/Fraud_Detection_Project/raw/main/Fraud_Detection_Project/Dashboard/Financial%20Metrics.png)
 
 ### 4. Deep Dive & Model Simulation
 * **Intent:** Proactive defensive strategy and live forensic auditing.
 * **Features:** 
   * **Interactive Slider:** Lets users dynamically scale system sensitivity, tracking simulated savings between a strict security posture (**$58.59K recovered**) and an open-gate scenario (**$2.93K recovered**).
   * **Forensic Ledger Table:** A structured, high-readability data grid mapping `Transaction_Type`, `Operational Day`, and `True Hour` against `Sum of Amount` to enable instantaneous root-cause analysis.
+ 
+![Model Simulation](https://github.com/Nasha14/Fraud_Detection_Project/raw/main/Fraud_Detection_Project/Dashboard/Model%20Simulation.png)
 
 ---
 
